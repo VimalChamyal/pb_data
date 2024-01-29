@@ -15,8 +15,8 @@ MS Excel, Python, PowerBI, Google Colab
 Please find 'Data.csv', 'pdata.ipynb' & 'pbdata.pbix' files above for reference.
  
 
-# SECTION 1. Overview of the Dataset
-
+# SECTION I. OVERVIEW OF THE DATASET & BASIC EDA
+Please refer the file 'pdata.ipynb'. Check it above or click  <a href="https://github.com/VimalChamyal/pb_data/blob/main/pdata.ipynb">here</a>. I will be using the screenshots from this file
 
 ## A. Descriptive statistics of the numerical columns (Time taken to Complete & Benchmark Points) in the dataset.
 
@@ -51,10 +51,18 @@ Checking for unique values in each columns of the data. Getting an idea, which c
 
 Checking the distribution of values in the important columns.
 
-<display="flex">
 ![image](https://github.com/VimalChamyal/pb_data/assets/101229988/131ada58-bec0-4874-aa3b-a996542a2f90)
 ![image](https://github.com/VimalChamyal/pb_data/assets/101229988/11d2c122-9ceb-45ab-a321-46a688b02340)
 ![image](https://github.com/VimalChamyal/pb_data/assets/101229988/e1fbd8de-5709-4d9d-899b-842263f7a39f)
 
-</>
+# SECTION II. DATA ANALYSIS & VISUALIZATION
+Please refer the file 'pbdata.pbix'. Check it above or click <a href="https://github.com/VimalChamyal/pb_data/blob/main/pbdata.pbix">here</a>. I will be using the screenshots from this file
+
+## A. Summarized analysis/view
+We'll be able to see the important metrics like Benchmark Points & Time taken to complete (in mins) wrt to Profile IDs. One can make use of the filters Research Group, Workflow Type, Workflow Status, Workflow Process in order to get the indepth analysis. PFB a sample view with 'MUM - D - NC/NR' filter applied in the Research Group & 'Co Early Stage - New Company' filter applied in the Workflow Type.  
+
+<img width="626" alt="image" src="https://github.com/VimalChamyal/pb_data/assets/101229988/6b47d9c9-8c82-40eb-964f-cb8e8aef9a51">
+
+
+
 
