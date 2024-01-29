@@ -26,14 +26,14 @@ The statistics shown below provide a quick overview of the distribution of the 2
 
 Here's what each statistic means:
 
-count: The number of non-null observations in the column.
-mean: The average value of the observations.
-std: The standard deviation, which measures the dispersion or spread of the values around the mean.
-min: The minimum value in the column.
-25% (Q1): The value below which 25% of the observations fall.
-50% (Q2): The median, the value below which 50% of the observations fall.
-75% (Q3): The value below which 75% of the observations fall.
-max: The maximum value in the column.
+1. count: The number of non-null observations in the column.
+2. mean: The average value of the observations.
+3. std: The standard deviation, which measures the dispersion or spread of the values around the mean.
+4. min: The minimum value in the column.
+5. 25% (Q1): The value below which 25% of the observations fall.
+6. 50% (Q2): The median, the value below which 50% of the observations fall.
+7. 75% (Q3): The value below which 75% of the observations fall.
+8. max: The maximum value in the column.
 
 
  
