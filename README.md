@@ -1,4 +1,4 @@
-<img width="332" alt="image" src="https://github.com/VimalChamyal/pb_data/assets/101229988/26925b2e-2ade-4255-b4a2-9d8271d532bf"># PB Data analysis assignment
+# PB Data analysis assignment
 
 In this assignment I've worked on a DataOps teams' dataset. My objective was to come up with insights from the data that can help the client (TL) understand the production and the performance of his/her team.
 
@@ -15,7 +15,7 @@ MS Excel, Python, PowerBI, Google Colab
 Please find 'Data.csv', 'pdata.ipynb' & 'pbdata.pbix' files above for reference.
  
 
-# Overview of the Dataset
+# SECTION 1. Overview of the Dataset
 
 
 ## A. Descriptive statistics of the numerical columns (Time taken to Complete & Benchmark Points) in the dataset.
@@ -35,5 +35,25 @@ Here's what each statistic means:
 7. 75% (Q3): The value below which 75% of the observations fall.
 8. max: The maximum value in the column.
 
+An overview of the above statistics can be seen below (in the form of charts):
 
- 
+![image](https://github.com/VimalChamyal/pb_data/assets/101229988/fd41f653-1694-44cd-911b-7a4a11fdb6d8)
+![image](https://github.com/VimalChamyal/pb_data/assets/101229988/c648eb69-1903-4a6d-9624-866179e5e5f0)
+
+
+## B. Unique values in each columns.
+
+Checking for unique values in each columns of the data. Getting an idea, which columns can be continous & which can be categorical.
+
+<img width="346" alt="image" src="https://github.com/VimalChamyal/pb_data/assets/101229988/66c1679a-6302-4c14-9142-2cef27a30296">
+
+## C. Distribution of the columns
+
+Checking the distribution of values in the important columns.
+
+![image](https://github.com/VimalChamyal/pb_data/assets/101229988/131ada58-bec0-4874-aa3b-a996542a2f90)
+![image](https://github.com/VimalChamyal/pb_data/assets/101229988/11d2c122-9ceb-45ab-a321-46a688b02340)
+![image](https://github.com/VimalChamyal/pb_data/assets/101229988/e1fbd8de-5709-4d9d-899b-842263f7a39f)
+
+
+
