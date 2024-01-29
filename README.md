@@ -59,9 +59,25 @@ Checking the distribution of values in the important columns.
 Please refer the file 'pbdata.pbix'. Check it above or click <a href="https://github.com/VimalChamyal/pb_data/blob/main/pbdata.pbix">here</a>. I will be using the screenshots from this file
 
 ## A. Summarized analysis/view
-We'll be able to see the important metrics like Benchmark Points & Time taken to complete (in mins) wrt to Profile IDs. One can make use of the filters Research Group, Workflow Type, Workflow Status, Workflow Process in order to get the indepth analysis. PFB a sample view with 'MUM - D - NC/NR' filter applied in the Research Group & 'Co Early Stage - New Company' filter applied in the Workflow Type.  
+We'll be able to see the important metrics like Benchmark Points & Time taken to complete (in mins) wrt to Secondary Researcher. One can make use of the filters Research Group, Workflow Type, Workflow Status, Workflow Process in order to get the indepth analysis of the team's performance/production. PFB a sample view with 'KOL-ES-NC, KOL-ES-NR, KOL-VC-CL' filters applied in the Research Group & 'Co Early Stage - New Company' filter applied in the Workflow Type.  
 
-<img width="629" alt="image" src="https://github.com/VimalChamyal/pb_data/assets/101229988/f5c4f78e-c30c-4bb7-b095-d796cc769761">
+<img width="627" alt="image" src="https://github.com/VimalChamyal/pb_data/assets/101229988/76af0220-8d70-41c4-8843-e44217058e79">
+
+## B. Workflow analysis
+Inorder to understand the workflow in a much better way I've tried to make this view (shown below). This view helps us understand the workflow (i.e., what workflow should be prioritized). I have applied the same filters on Resarch Group & Worklow Type. 
+
+1. We can get an idea from the donut chart that News, Special Requests, Crawlers & Survey (Workflow Processes) are helping us generate maximum amount of Benchmark Points.
+2. From the same donut chart (with the help of tooltips) we can see that Post News can also be a prefered Workflow Process as it is generating a decent amount of Benchmark Points on an average, maintaining the Time taken to Complete considerably low.
+
+(Note: Both the above mentioned points are valid for the filters applied).
+
+<img width="626" alt="image" src="https://github.com/VimalChamyal/pb_data/assets/101229988/032f6a6a-20dc-447e-9045-3ed1622edf64">
+
+## C. Overall Analysis
+Inorder to get a holistic view of everything at a place I have used a table as shown below which will help us to understand at a researcher's level (we can filter on the basis of Research Group, Workflow Type, Workflow status, Workflow Process. (I have applied the same filters on Resarch Group & Worklow Type.)
+
+<img width="627" alt="image" src="https://github.com/VimalChamyal/pb_data/assets/101229988/9d3b8f39-3011-448b-9f2c-64995f1d4114">
+
 
 
 
