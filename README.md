@@ -61,7 +61,8 @@ Please refer the file 'pbdata.pbix'. Check it above or click <a href="https://gi
 ## A. Summarized analysis/view
 We'll be able to see the important metrics like Benchmark Points & Time taken to complete (in mins) wrt to Profile IDs. One can make use of the filters Research Group, Workflow Type, Workflow Status, Workflow Process in order to get the indepth analysis. PFB a sample view with 'MUM - D - NC/NR' filter applied in the Research Group & 'Co Early Stage - New Company' filter applied in the Workflow Type.  
 
-<img width="629" alt="image" src="https://github.com/VimalChamyal/pb_data/assets/101229988/8643a60c-5969-4f5a-8b96-d039a52b036e">
+<img width="629" alt="image" src="https://github.com/VimalChamyal/pb_data/assets/101229988/f5c4f78e-c30c-4bb7-b095-d796cc769761">
+
 
 
 
