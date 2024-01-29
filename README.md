@@ -51,9 +51,10 @@ Checking for unique values in each columns of the data. Getting an idea, which c
 
 Checking the distribution of values in the important columns.
 
+<display="flex">
 ![image](https://github.com/VimalChamyal/pb_data/assets/101229988/131ada58-bec0-4874-aa3b-a996542a2f90)
 ![image](https://github.com/VimalChamyal/pb_data/assets/101229988/11d2c122-9ceb-45ab-a321-46a688b02340)
 ![image](https://github.com/VimalChamyal/pb_data/assets/101229988/e1fbd8de-5709-4d9d-899b-842263f7a39f)
 
-
+</>
 
